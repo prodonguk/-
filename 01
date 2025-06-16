@@ -17,4 +17,5 @@
 16. 서브쿼리 설명 : 다른 쿼리 내부에서 사용되는 SELECT 문이다
 17. 서브쿼리 SQL 문장의 위치 : SELECT ,WHERE, HAVING
 18. 테이블 생성 순서: DB생성->테이블 생성->데이터 삽입
-19.
+19. TCL 명령어의 메모리 관점 동작 CONNIT, ROLLBACK,CHECJPOINT -하드디스크에 저장하는명령어는?--commit
+20. 기존 테이블 복사하는 명령어 create tate 신규테이블 as select *from 기존테이블
